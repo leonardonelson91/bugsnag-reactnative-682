@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@bugsnag/react-native": "^7.16.0",
-    "react": "18.1.0",
-    "react-native": "0.70.1"
+    "react": "17.0.2",
+    "react-native": "0.68.2"
   },
   "devDependencies": {
     "@babel/core": "^7.10.4",
